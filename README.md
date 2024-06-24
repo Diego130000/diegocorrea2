@@ -2,7 +2,7 @@
 
 Meu nome é Diego
 
-- Estou utilizano o Alura para aprender a trablha com GITHUB
+- Estou utilizano o Alura para aprender a trablha com GITHUB [Alura](https://www.alura.com.br)
 - ESTOU DESENVOLVENDO TRABALHOS COM JAVASCRIPT
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
